@@ -22,3 +22,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankllin-teixeira-244a9517b/)]( https://www.linkedin.com/in/frankllin-teixeira-244a9517b/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankllin15&show_icons=true&theme=radical)
+
