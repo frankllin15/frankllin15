@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Frankllin</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [bestfilms](https://github.com/frankllin15/best-films)
+- 🔭 I’m currently working on [Roxobrasil](https://github.com/frankllin15/roxobrasil-backend)
 
-- 🌱 I’m currently learning **Nextjs and React Native**
+- 🌱 I’m currently learning **Nestjs and Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
