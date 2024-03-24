@@ -2,7 +2,7 @@
 A Fullstack developer from Brazil
 
 
-🌱 I’m currently learning Nestjs, TypeScript and Graphql
+🌱 I’m currently learning C#
 
 
 ## 🌐 Socials:
